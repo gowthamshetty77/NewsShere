@@ -1,3 +1,8 @@
+## NewsSphere
+
+## Developer Information
+- This project was developed by **GOWTHAM**. For more information or inquiries, feel free to reach out through GitHub.
+
 ## Project Overview
 
 **NewsSphere** is a React-based web application that provides users with the latest news articles across various categories. The application utilizes the GNews public API to fetch and display news, enabling users to stay informed on topics of interest.
@@ -15,6 +20,4 @@
 - **Styled-Components**: To manage component-level styling using CSS-in-JS.
 - **React-Bootstrap**: For responsive UI components that enhance the overall design.
 
-## Developer Information
 
-- This project was developed by **GOWTHAM**. For more information or inquiries, feel free to reach out through GitHub.

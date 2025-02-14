@@ -1,7 +1,6 @@
 ## NewsSphere
 
-## Developer Information
-- This project was developed by **GOWTHAM**. For more information or inquiries, feel free to reach out through GitHub.
+- This project was developed by **Gowtham Shetty**. For more information or inquiries, feel free to reach out through GitHub.
 
 ## Project Overview
 

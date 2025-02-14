@@ -1,0 +1,290 @@
+{
+  "status": "ok",
+  "totalResults": 21179,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Fatima Al-Kassab",
+      "title": "Global stocks slide as Trump imposes tariffs on imports",
+      "description": "Stock markets around the fell as President Trump imposed tariffs on key trading partners, Canada, Mexico and China",
+      "url": "https://www.npr.org/2025/02/03/nx-s1-5284820/global-stocks-slide-trump-imposes-tariffs",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4852x2729+0+5/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2Fda%2Fa9bfb0924af8863f21f04d7a0d09%2Fgettyimages-2196842328.jpg",
+      "publishedAt": "2025-02-03T12:02:32Z",
+      "content": "Global stock markets slumped, the dollar strengthened, oil prices rose, with U.S. stock market futures down sharply Monday, after President Trump imposed tariffs on imports from key trading partners … [+1357 chars]"
+    },
+
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "jsor@businessinsider.com (Jennifer Sor)",
+      "title": "A trifecta of developments has flipped markets upside down this week",
+      "description": "Stocks and bonds staged a turnaround this week as investors cheered a flurry of positive headlines that bolstered the case for rate cuts in 2025.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-bond-yields-interest-rates-fed-cuts-rally-outlook-2025-1",
+      "urlToImage": "https://i.insider.com/678a7de62fcded5e9073a865?width=1200&format=jpeg",
+      "publishedAt": "2025-01-17T16:02:54Z",
+      "content": "Stocks and bonds staged a major turnaround this week thanks to a perfect storm of factors that have bolstered traders' expectations for rate cuts in the coming year.\r\nThe S&amp;P 500 rose sharply ove… [+4029 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "kcloonan@insider.com (Kelly Cloonan)",
+      "title": "Quantum computing stocks tumble after Nvidia boss Jensen Huang says the tech is still 20 years away",
+      "description": "Quantum stocks like Rigetti, IonQ and D-Wave Quantum saw steep losses after Nvidia CEO Jensen Huang said quantum computers are decades away.",
+      "url": "https://markets.businessinsider.com/news/stocks/quantum-computing-stocks-jensen-huang-nvidia-ces-rigetti-2025-1",
+      "urlToImage": "https://i.insider.com/677e8c06f83fcec7e5b4ff7b?width=1200&format=jpeg",
+      "publishedAt": "2025-01-08T16:01:29Z",
+      "content": "Quantum computing stocks plunged Wednesday after Nvidia CEO Jensen Huang cast doubt on the timeline for the technology. \r\nShares of Rigetti and Quantum Computing each fell around 47%, while IonQ fell… [+1883 chars]"
+    },
+
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "tspirlet@insider.com (Thibault Spirlet)",
+      "title": "Tech stocks stage partial recovery after market rout sparked by DeepSeek's rise",
+      "description": "Nvidia closed higher on Tuesday as some investors seized an opportunity to buy the chip giant at a discount following its record wipeout on Monday.",
+      "url": "https://markets.businessinsider.com/news/stocks/tech-stocks-rebound-deepseek-selloff-nvidia-asml-nasdaq-2025-1",
+      "urlToImage": "https://i.insider.com/679a00a0eb4be2fff9a2b38c?width=1200&format=jpeg",
+      "publishedAt": "2025-01-29T11:30:00Z",
+      "content": "AI-related stocks staged a partial recovery following Monday's tech rout sparked by the sudden rise of Chinese startup DeepSeek.\r\nChip titan Nvidia closed almost 9% higher on Tuesday, recovering abou… [+1183 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "mfox@businessinsider.com (Matthew Fox)",
+      "title": "Jamie Dimon sounds the alarm on stocks, says the market is looking 'kind of inflated'",
+      "description": "JPMorgan CEO Jamie Dimon said a lot has to go right for the stock market to continue its record rally.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-jamie-dimon-inflated-asset-prices-equity-valuations-2025-1",
+      "urlToImage": "https://i.insider.com/66475e269fc063e829b23040?width=1000&format=jpeg",
+      "publishedAt": "2025-01-22T15:33:56Z",
+      "content": "JPMorgan CEO Jamie Dimon is sounding the alarm bell on stocks, stating in an interview at the World Economic Forum in Davos, Switzerland, this week that the market looks overvalued. \r\n\"Asset prices a… [+2664 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "pthompson@insider.com (Polly Thompson)",
+      "title": "Nvidia tumbles and tech stocks slide premarket as China's DeepSeek spooks AI investors",
+      "description": "DeepSeek topped the Apple AppStore chart and sparked fears the Chinese company is quickly catching up with OpenAI's ChatGPT while costing far less.",
+      "url": "https://markets.businessinsider.com/news/stocks/nvidia-tech-stocks-deepseek-ai-race-nasdaq-2025-1",
+      "urlToImage": "https://i.insider.com/6797599f7bb3f854015a6e01?width=1200&format=jpeg",
+      "publishedAt": "2025-01-27T10:51:59Z",
+      "content": "Global tech stocks took a battering on Monday after an unexpected launch by Chinese artificial intelligence startup DeepSeek spooked AI investors.\r\nIn the US, Nasdaq 100 futures were down 3.3%, and c… [+1438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Leena Arden",
+      "title": "Dividend Investor Earning Over $10,000 a Month Shares Top 6 Stock Picks - 'Money Coming Without Working is Liberating'",
+      "description": "Dividend stocks are in focus as investors looking for stability amid volatility in AI stocks and turn to recession-proof companies that reward their...",
+      "url": "https://finance.yahoo.com/news/dividend-investor-earning-over-10-151537727.html",
+      "urlToImage": "https://media.zenfs.com/en/benzinga_79/c4b3e13bb1267fb939913d2199db50ae",
+      "publishedAt": "2025-02-03T15:15:37Z",
+      "content": "Dividend Investor Earning Over $10,000 a Month Shares Top 6 Stock Picks - 'Money Coming Without Working is Liberating'\r\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items thr… [+6777 chars]"
+    },
+
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Hasan Chowdhury",
+      "title": "Investors worry DeepSeek reduces AI chip demand, but there's a case for remaining bullish on Nvidia",
+      "description": "China's DeepSeek has panicked investors in top AI stocks after it said its new model was built with less computing power than would be expected.",
+      "url": "https://www.businessinsider.com/deepseek-compute-jevons-paradox-demand-market-ai-stocks-nvidia-chatgpt-2025-1",
+      "urlToImage": "https://i.insider.com/6797b6b9eb4be2fff9a23acd?width=1200&format=jpeg",
+      "publishedAt": "2025-01-28T08:00:02Z",
+      "content": "DeepSeek released a model last week that challenged OpenAI's offering at a lower price.Getty Images\r\n<ul><li>Chinese startup DeepSeek triggered panic among investors in top AI companies like Nvidia.<… [+5535 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Theron Mohamed",
+      "title": "AOC says she's worth less than $500,000 after kickback claims — and seems to get kudos from Trump fans in response",
+      "description": "Rep. Alexandria Ocasio-Cortez won plaudits from critics for saying her congressional salary is her only income and she doesn't trade stocks.",
+      "url": "https://www.businessinsider.com/aoc-net-worth-wealth-salary-congress-home-trump-ocasio-cortez-2025-2",
+      "urlToImage": "https://i.insider.com/67a4af40eb4be2fff9a3b798?width=1200&format=jpeg",
+      "publishedAt": "2025-02-06T16:00:20Z",
+      "content": "Rep. Alexandria Ocasio-Cortez says her congressional salary is her only income.Jabin Botsford/The Washington Post via Getty Images\r\n<ul><li>Rep. Alexandria Ocasio-Cortez said her net worth was less t… [+4594 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "jfaris@businessinsider.com (James Faris)",
+      "title": "'A clear overreaction': BMO's top strategist says investors shouldn't fear Trump's tariffs — and shares the best opportunities in North American markets",
+      "description": "Investors are overreacting to tariff and trade drama, BMO Capital Markets says. Here's where to invest while the long-term market rally continues.",
+      "url": "https://www.businessinsider.com/stock-market-outlook-trump-tariffs-us-canada-investing-strategy-bmo-2025-2",
+      "urlToImage": "https://i.insider.com/67a3d7afeb4be2fff9a3ab3c?width=1200&format=jpeg",
+      "publishedAt": "2025-02-06T10:30:02Z",
+      "content": "Investors have been on edge as President Donald Trump's on-again, off-again tariff policies have seesawed markets and potentially raised the risk of a recession.\r\nShortly after Trump took office, the… [+4222 chars]"
+    },
+
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Bradley Saacks",
+      "title": "Who foresaw the DeepSeek-caused sell-off of Magnificent 7 stocks? Hedge funds, which have been cutting exposure for months",
+      "description": "Managers like Mala Gaonkar's SurgoCap Partners sold out of big-name US tech companies before the tech sell off, filings show.",
+      "url": "https://www.businessinsider.com/hedge-funds-tech-sell-off-deepseek-magnificant-7-stocks-2025-1",
+      "urlToImage": "https://i.insider.com/6798f418196626c40985409a?width=1200&format=jpeg",
+      "publishedAt": "2025-01-28T15:29:16Z",
+      "content": "Big-name US tech companies have slumped thanks to Chinese AI company DeepSeek.LIU JIN/AFP via Getty Images\r\n<ul><li>The emergence of Chinese AI darling DeepSeek led to a sell-off of stocks like Nvidi… [+2650 chars]"
+    },
+
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "It’s perfectly fine to ignore your smartwatch this January",
+      "description": "Smartwatches, wearables, and fitness apps often push you to make the best of New Year’s Resolutions. Sometimes it’s better to ignore that noise completely.",
+      "url": "https://www.theverge.com/2025/1/17/24345802/smartwatch-wearables-fitness-tech-new-years-resolutions",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_efGA3hnJGlbI6Yt6EB92VVXIes=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25623086/247270_Apple_watch_series_10_AKrales_0631.jpg",
+      "publishedAt": "2025-01-17T16:51:06Z",
+      "content": "Its perfectly fine to ignore your smartwatch this January\r\nIts perfectly fine to ignore your smartwatch this January\r\n / Lots of wearables and fitness tech make a ruckus about New Years Resolutions. … [+3049 chars]"
+    },
+
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ben Gran",
+      "title": "I'm a financial writer, but I'm not teaching my teenagers about investing. It's hard to get excited about stocks before you have an income.",
+      "description": "I'm a financial writer with two teenagers. Instead of teaching them how to invest, I'm focusing on financial values.",
+      "url": "https://www.businessinsider.com/financial-writer-not-teaching-teenagers-how-invest-2025-1",
+      "urlToImage": "https://i.insider.com/67856f93e294a7514e8cd373?width=1200&format=jpeg",
+      "publishedAt": "2025-01-18T12:27:01Z",
+      "content": "The author (not pictured) is a financial writer but isn't teaching his kids about investing yet.Imgorthand/Getty Images\r\n<ul><li>I'm a financial writer, but I'm not teaching my kids how to invest yet… [+4119 chars]"
+    },
+
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Theron Mohamed",
+      "title": "'Big Short' investor Michael Burry kept quiet, piled into China tech, and won big with a stock bet in 2024",
+      "description": "Michael Burry refrained from posting on X, bet big on a trio of Chinese tech giants, and saw one stock wager pay off last year.",
+      "url": "https://www.businessinsider.com/big-short-michael-burry-2024-highlights-twitter-china-tech-stocks-2025-1",
+      "urlToImage": "https://i.insider.com/677e84ac8951662c9f1f2cb3?width=1078&format=jpeg",
+      "publishedAt": "2025-01-09T10:02:45Z",
+      "content": "Michael Burry, the investor of \"The Big Short\" fame.Astrid Stawiarz/Getty Images\r\n<ul><li>Michael Burry stayed quiet, bet big on Chinese tech giants, and saw one stock wager pay off in 2024.</li><li>… [+4151 chars]"
+    },
+
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "hchowdhury@insider.com (Hasan Chowdhury)",
+      "title": "Intel's former CEO says the market is getting DeepSeek wrong after AI chip stock rout",
+      "description": "The retired chip CEO claimed \"the markets are getting it wrong\" on Monday after investors triggered a sell-off in response to China's DeepSeek.",
+      "url": "https://www.businessinsider.com/intel-pat-gelsinger-deepseek-market-wrong-nvidia-2025-1",
+      "urlToImage": "https://i.insider.com/6797c86f7bb3f854015a7c73?width=1200&format=jpeg",
+      "publishedAt": "2025-01-27T18:38:48Z",
+      "content": "Former Intel CEO Pat Gelsigner has said that \"the markets are getting it wrong\" after investors drove a panic sell-off in top AI stocks in response to concerns that DeepSeek would weaken demand for a… [+2172 chars]"
+    },
+
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "WATCH: How China-based AI app DeepSeek works",
+      "description": "Cybersecurity expert Caitlin Sarian reacts to the China-based AI app, DeepSeek, topping Apple's app-store charts as well as sending U.S. tech stocks lower on Monday.",
+      "url": "https://abcnews.go.com/International/video/china-based-ai-app-deepseek-works-118153948",
+      "urlToImage": "https://i.abcnewsfe.com/a/fec5d36d-8e50-4524-a3af-c325ae48f2f9/250127_abcnl_3p_deepseek_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2025-01-27T21:43:38Z",
+      "content": "<ul><li>Secretary of Defense Pete Hegseth's first official day at the Pentagon\r\n</li><li>Footage shows thousands of Palestinians returning home to northern Gaza\r\n</li><li>ICE launches 'targeted opera… [+4287 chars]"
+    },
+
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ana Altchek",
+      "title": "Billionaire investor Ray Dalio says this will be China's play in the AI tech wars",
+      "description": "Bridgewater founder Ray Dalio talked about DeepSeek, the tech wars, and large-scale AI companies like Nvidia in a recent podcast interview.",
+      "url": "https://www.businessinsider.com/ray-dalio-deepseek-china-chips-nvidia-2025-1",
+      "urlToImage": "https://i.insider.com/679929947bb3f854015accb2?width=1200&format=jpeg",
+      "publishedAt": "2025-01-29T18:02:40Z",
+      "content": "Bridgewater founder Ray Dalio talked about DeepSeek, the tech wars, and large-scale AI companies like Nvidia in a recent podcast interview.Dia Dipasupil/Getty Images\r\n<ul><li>Ray Dalio said China is … [+2917 chars]"
+    },
+
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Emmalyse Brownstein",
+      "title": "Meet Citadel partner Micah Nance, who went from Texas A&M to managing his own fund by age 35",
+      "description": "Portfolio manager Micah Nance explains how he rose in the ranks of the $65 billion Citadel hedge fund and what he looks for in a new hire.",
+      "url": "https://www.businessinsider.com/citadel-portfolio-manager-micah-nance-surveyor-capital-career-profile-2025-1",
+      "urlToImage": "https://i.insider.com/6793dbda2fcded5e9074a36f?width=1200&format=jpeg",
+      "publishedAt": "2025-01-26T10:00:02Z",
+      "content": "Micah Nance at Citadel's Dallas officeCitadel\r\n<ul><li>Micah Nance started at Citadel in 2012 as an associate and was named a partner in 2023.</li><li>He and his team are responsible for investing bi… [+8132 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "lmaidan@businessinsider.com (Laila Maidan)",
+      "title": "The wealthiest 0.01% are firing active managers and indexing or making contrarian bets, $500B Neuberger Berman says. Here's what they're buying.",
+      "description": "The idea that ultra-high-net-worth individuals are more concerned with wealth preservation than alpha generation  isn't necessarily true.",
+      "url": "https://www.businessinsider.com/how-wealthiest-investing-in-the-stock-market-2025-2025-2",
+      "urlToImage": "https://i.insider.com/67a3b0af7bb3f854015bdbec?width=1200&format=jpeg",
+      "publishedAt": "2025-02-06T10:30:02Z",
+      "content": "The idea that ultra-high-net-worth individuals are more concerned with wealth preservation than alpha generation gains above the board market isn't necessarily true.\r\nOne of the hardest parts of Ahme… [+5257 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "mnoyen@businessinsider.com (Maria Noyen)",
+      "title": "DeepSeek's founder said 'experience is not that important' when hiring staff in rare 2023 interview",
+      "description": "DeepSeek's founder previously said he doesn't like recruiting experienced people from Silicon Valley as it doesn't guarantee long-term success.",
+      "url": "https://www.businessinsider.com/deepseek-founder-liang-wenfeng-hiring-inexperienced-candidates-china-ai-2025-1",
+      "urlToImage": "https://i.insider.com/679a5890eb4be2fff9a2be79?width=1200&format=jpeg",
+      "publishedAt": "2025-01-30T12:54:23Z",
+      "content": "Liang Wenfeng, the founder of the Chinese AI lab DeepSeek, has an unusual take on hiring: favoring creativity over experience.\r\nLiangrarely gives interviews, but he has come into the spotlight since … [+2424 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "wedwards@businessinsider.com (William Edwards)",
+      "title": "With tariffs rolled out, invest in these 4 services industries set to get a boost: Morgan Stanley",
+      "description": "\"We would expect the market to rotate further toward services given recent trade policy implementation,\" Mike Wilson says.",
+      "url": "https://www.businessinsider.com/tariffs-how-to-invest-services-industries-canada-china-morgan-stanley-2025-2",
+      "urlToImage": "https://i.insider.com/67a10390bfebcc4d029d8e99?width=1200&format=jpeg",
+      "publishedAt": "2025-02-04T10:00:02Z",
+      "content": "Worried about tariffs hurting your stock portfolio? There's an easy fix, Morgan Stanley says: Just lean away from industries that rely on importing goods.\r\nIn a client note on Monday morning, Mike Wi… [+2625 chars]"
+    }
+  ]
+}
